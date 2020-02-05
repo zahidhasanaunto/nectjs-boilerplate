@@ -1,0 +1,5 @@
+{"message":"Server started at http://localhost:3000","level":"info","timestamp":"2020-02-05T18:28:58.608Z"}
+{"message":"Server started at http://localhost:3000","level":"info","timestamp":"2020-02-05T18:29:05.526Z"}
+{"message":"(GET) /robots.txt - 1ms","level":"debug","timestamp":"2020-02-05T18:30:18.692Z"}
+{"message":"(GET) /api/v1/users - 67ms","level":"debug","timestamp":"2020-02-05T18:30:18.737Z"}
+{"message":"(GET) /favicon.ico - 0ms","level":"debug","timestamp":"2020-02-05T18:30:18.966Z"}
