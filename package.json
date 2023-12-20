@@ -30,7 +30,7 @@
     "kcors": "^2.2.2",
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
-    "koa-router": "^7.4.0",
+    "koa-router": "^11.0.2",
     "koa2-swagger-ui": "^2.16.0",
     "pg": "^7.14.0",
     "reflect-metadata": "^0.1.13",
